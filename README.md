@@ -1,2 +1,3 @@
 # Zingodealz
-zingo dealz
+zingo deal
+This is a ecomerce platform
